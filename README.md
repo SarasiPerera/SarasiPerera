@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sarasi+Perera; CS+Undergraduate+%7C+AI+%26+NLP+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sarasi+Perera;CS+Undergraduate+%7C+AI+%26+NLP+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sarasiperera&label=Profile+Views&color=0e75b6&style=flat-square" />
