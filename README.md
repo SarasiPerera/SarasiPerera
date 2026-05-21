@@ -57,24 +57,50 @@ Computer Science undergraduate passionate about building intelligent, research-d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AgriTrade Hub** | Digital marketplace connecting farmers and buyers | React · Laravel · MySQL |
-| **Fine Management System** | Automated penalty tracking and reporting platform | Java · PHP · MySQL |
-| **AI/NLP Research** | NLP-based research focused on real-world language tasks | Python · HuggingFace |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarasiperera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌾 AgriTrade Hub</h3>
+      <p>Digital marketplace connecting farmers directly with buyers — reducing middlemen and improving income for local agricultural communities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📋 Fine Management System</h3>
+      <p>Automated penalty tracking and reporting platform for institutions — streamlining governance and reducing manual overhead.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=38bdf8"/>
+        <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 NLP Research Projects</h3>
+      <p>NLP-based research targeting real-world language understanding tasks — aimed at academic publication and open-source release.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8"/>
+        <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=fb923c"/>
+        <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>➕ More coming soon...</h3>
+      <p>Always building. Check my repositories for the latest projects and experiments.</p>
+      <p>
+        <a href="https://github.com/sarasiperera?tab=repositories">
+          <img src="https://img.shields.io/badge/View+All+Repos-0d1117?style=flat-square&logo=github&logoColor=38bdf8"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,12 +108,36 @@ Computer Science undergraduate passionate about building intelligent, research-d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarasiperera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasiperera&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarasiperera&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sarasiperera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=94a3b8&count_private=true" height="170" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarasiperera&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8" height="170" alt="GitHub Streak"/>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sarasiperera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarasiperera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=34d399" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧠 **Advanced ML model development** — fine-tuning transformers & efficient inference
+- 📄 **Research paper writing** — working toward first AI/NLP publication
+- ☁️ **Scalable system design** — cloud deployment, distributed architectures & DevOps
+- 🌐 **Open source contributions** — seeking AI/ML ecosystem projects to contribute to
 
 ---
 
@@ -95,13 +145,17 @@ Computer Science undergraduate passionate about building intelligent, research-d
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sarasiperera25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarasiperera25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sarasiperera-181717?style=flat-square&logo=github)](https://github.com/sarasiperera)
+[![Email](https://img.shields.io/badge/Gmail-sarasiperera25%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:sarasiperera25@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-sarasiperera-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117)](https://github.com/sarasiperera)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Turning real-world problems into simple, elegant digital solutions."</i>
+
+*"Turning real-world problems into simple, elegant digital solutions."*
+
 </div>
+
